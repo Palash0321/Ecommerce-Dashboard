@@ -72,3 +72,9 @@ The Madhav Ecommerce Sales Dashboard thus helps one to get a detailed view on th
 
 10.	 How much profit is made for each of the sub categories of products?
 
+**Dashboard Interaction** <a href = "https://github.com/Palash0321/Ecommerce-Dashboard/blob/main/Screenshot%202025-01-03%20185917.png">View Dashboard</a>
+
+# Dashboard
+![Screenshot 2025-01-03 185917](https://github.com/user-attachments/assets/b48ca2e1-d136-4e90-aaf4-97790b81371c)
+
+
