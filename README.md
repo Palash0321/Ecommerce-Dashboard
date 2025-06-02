@@ -2,10 +2,15 @@
 
 # Project - key points
 •	data collection
+
 •	data cleaning & wrangling
+
 •	data modeling
+
 •	data visualization
+
 •	dashboard design
+
 •	sharing insights
 
 # Project Overview
