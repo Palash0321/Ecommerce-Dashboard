@@ -37,6 +37,9 @@ The Madhav Ecommerce Sales Dashboard is a versatile and detailed analytical tool
 
 **Profit by Product Subcategories:** For better understanding of the profit margins that need to be provided with every specific subcategory of products, thus to establish the position, which product is more successful than others, or perhaps, where the company has certain problems.
 
+# Dataset Used
+<a href = "https://github.com/Palash0321/Ecommerce-Dashboard/blob/main/Details.csv">Dataset1</a>
+<a href = "https://github.com/Palash0321/Ecommerce-Dashboard/blob/main/Orders.csv">Dataset2</a>
 
 # Features of the Dashboard
 **Interactive Visualizations:** Interactive visualizations such as graphs, charts and tables, when the user is allowed to interact with the displayed data.
@@ -72,7 +75,7 @@ The Madhav Ecommerce Sales Dashboard thus helps one to get a detailed view on th
 
 10.	 How much profit is made for each of the sub categories of products?
 
-**Dashboard Interaction** <a href = "https://github.com/Palash0321/Ecommerce-Dashboard/blob/main/Screenshot%202025-01-03%20185917.png">View Dashboard</a>
+ **Dashboard Interaction** <a href = "https://github.com/Palash0321/Ecommerce-Dashboard/blob/main/Screenshot%202025-01-03%20185917.png">View Dashboard</a>
 
 # Dashboard
 ![Screenshot 2025-01-03 185917](https://github.com/user-attachments/assets/b48ca2e1-d136-4e90-aaf4-97790b81371c)
